@@ -1,4 +1,4 @@
-# Hi there! :wave:, My name is Kwabena Appiah
+# Hi there! :wave:, My name is Isaac Owusu-Appiah
 
 **`Data Scientist`**
 
