@@ -1,10 +1,10 @@
-# Hi there! :wave:
+# Hi there! :wave:, My name is Kwabena Appiah
 
 **`Data Scientist`**
 
-I'm a self-motivated, detail-oriented, and determined Data Scientist who enjoys finding data-driven solutions to real world problems. I'm proficient in data preprocessing, statistical analysis and visualization. And interested in exploratory data analysis, data manipulation and cleaning, feature engineering and selection, and applying machine learning to business data.
+I'm a self-motivated, detail-oriented, and determined Data Scientist who enjoys finding data-driven solutions to real world problems. I'm proficient in data preprocessing, statistical analysis and visualization. And interested in exploratory data analysis, data manipulation and cleaning, feature engineering and selection, and applying machine learning techniques to business data.
 
-On my GitHub profile, I share some of my projects.
+My motivation lies in helping businesses, corporations and retail companies maximize their vast amount of data to grow positively by unearthing hidden values in data.
 
 ----
 #### Check out my latest blog posts on my website and at (https://desksql.com)
@@ -26,5 +26,7 @@ On my GitHub profile, I share some of my projects.
 ![](https://img.shields.io/badge/Deployment--informational?style=flat&logo=&logoColor=white&color=2CD4A7)
 
 #
+My Projects are as follows:
 
+#
 [website]: https://desksql.com
