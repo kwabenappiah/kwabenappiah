@@ -4,7 +4,7 @@
 
 I'm a self-motivated, detail-oriented, and determined Data Scientist who enjoys finding data-driven solutions to real world problems. I'm proficient in data preprocessing, statistical analysis and visualization. And interested in exploratory data analysis, data manipulation and cleaning, feature engineering and selection, and applying machine learning techniques to business data.
 
-My passion lies with everything data, from data architecture to implementing data pipelines, I like solving business problems and providing data platform solutions that reveal impactful insights.
+My passion lies with everything data, from data architecture, data analytics to building Machine Learning Models, I like solving business problems and providing data platform solutions that reveal impactful insights.
 
 ----
 #### Check out my latest blog posts on my website and at (https://desksql.com)
