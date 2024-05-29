@@ -1,16 +1,15 @@
-# Hi there! :wave:, My name is Isaac Owusu-Appiah
+# hi :wave:
 
-**`Data Scientist`**
+I'm Isaac Appiah, a **`Data Scientist`**, based in Toronto. I enjoy automating things and finding data-driven solutions to real world business problems. My interest lies with everything data, from data architecture, data analytics to building Machine Learning Models.
 
-I'm a self-motivated, detail-oriented, and determined Data Scientist who enjoys finding data-driven solutions to real world problems. I'm proficient in data preprocessing, statistical analysis and visualization. And interested in exploratory data analysis, data manipulation and cleaning, feature engineering and selection, and applying machine learning techniques to business data.
-
-My passion lies with everything data, from data architecture, data analytics to building Machine Learning Models, I like solving business problems and providing data platform solutions that reveal impactful insights.
-
-----
-#### Check out my latest blog posts on my website and at (https://desksql.com)
+####  My main tools are <ins>[python](https://github.com/kwabenappiah/)</ins>,  <ins>[R](https://github.com/kwabenappiah/)</ins>, <ins>[SQL](https://github.com/kwabenappiah/),</ins> and <ins>[GIT](https://git-scm.com/)</ins>
+#### <b>Contact:</b> <ins>[website](https://desksql.com)</ins> / <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah)</ins>
 
 ----
-## Skills and Tools:
+#### Check out my latest blog posts here 👇: and at  <ins>[website](https://desksql.com)</ins> 
+
+----
+### Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
