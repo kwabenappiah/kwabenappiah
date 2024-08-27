@@ -12,7 +12,7 @@ I'm Isaac Appiah, a **`Data Scientist`**, based in Toronto. I enjoy automating t
 
 ####  My main tools are :<ins>[python](https://github.com/kwabenappiah/)</ins>, <ins>[R](https://github.com/kwabenappiah/)</ins>, <ins>[SQL](https://github.com/kwabenappiah/)</ins>, <ins>[GIT](https://git-scm.com/)</ins>
 
-#### <b>Contact:</b> <ins>[website](https://desksql.com)</ins> <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah)</ins>
+#### <b>Contact:</b> <ins>[website](https://ioappiah.com)</ins> <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah)</ins>
 
 ----
 #### Check out my latest blog posts here 👇: and at  <ins>[website](https://ioappiah.com)</ins> 
