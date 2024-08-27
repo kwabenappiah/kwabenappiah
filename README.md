@@ -2,11 +2,24 @@
 
 I'm Isaac Appiah, a **`Data Scientist`**, based in Toronto. I enjoy automating things and finding data-driven solutions to real world business problems. My interest lies with everything data, from data architecture, data analytics to building Machine Learning Models.
 
-####  My main tools are <ins>[python](https://github.com/kwabenappiah/)</ins>,  <ins>[R](https://github.com/kwabenappiah/)</ins>, <ins>[SQL](https://github.com/kwabenappiah/),</ins> and <ins>[GIT](https://git-scm.com/)</ins>
-#### <b>Contact:</b> <ins>[website](https://desksql.com)</ins> / <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah)</ins>
+## About me :👇
+
+- 🎯 I'm currenting freelancing with <ins>(https://github.com/kwabenappiah/)</ins>. Looking for full-time opportunities for Data Scientist /ML Engineer.
+- 🌍 Check out my <ins>[website](https://desksql.com)</ins>.
+- 🚀 I’m also looking for a full-time in Machine Learning / Data Science.
+- 📫 How to reach me: <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> (More Active).
+- ⚡ Hobbies: Data Science blogging.
+
+####  My main tools are :
+- <ins>[python](https://github.com/kwabenappiah/)</ins>.
+- <ins>[R](https://github.com/kwabenappiah/)</ins>.
+- <ins>[SQL](https://github.com/kwabenappiah/)</ins>.
+- <ins>[GIT](https://git-scm.com/)</ins>
+
+#### <b>Contact:</b> <ins>[website](https://desksql.com)</ins> <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah)</ins>
 
 ----
-#### Check out my latest blog posts here 👇: and at  <ins>[website](https://desksql.com)</ins> 
+#### Check out my latest blog posts here 👇: and at  <ins>[website](https://ioappiah.com)</ins> 
 
 ----
 ### Skills and Tools:
@@ -28,4 +41,4 @@ I'm Isaac Appiah, a **`Data Scientist`**, based in Toronto. I enjoy automating t
 My Projects are as follows:
 
 #
-[website]: https://desksql.com
+[website]: https://ioappiah.com
