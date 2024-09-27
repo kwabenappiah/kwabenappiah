@@ -4,9 +4,9 @@ My name is Isaac Owusu-Appiah, and I am a **`Data Scientist`**. I enjoy automati
 
 ### About me :👇
 
-- 🎯 I'm currenting freelancing with [Desksql training](https://www.desksql.com) and seeking full-time opportunities for Data Scientist /ML Engineer.
+- 🎯 I am currenting freelancing with [Desksql training](https://www.desksql.com) and seeking full-time opportunities for Data Scientist /ML Engineer.
 - 🌍 Check out my website isaac <a href="https://www.ioappiah.com"></a>.
-- 🚀 I’m looking for a full-time opportunity in Machine Learning or Data Science.
+- 🚀 I am looking for a full-time opportunity in Machine Learning or Data Science.
 - 📫 How to reach me: email <a href="mailto:aappiahoakwabena@gmail.com">appiahoakwabena@gmail.com</a> and linkedIn <a href="https://www.linkedin.com/in/isaac-owusu-appiah/" rel="nofollow">isaac owusu-appiah </a>.
 - ⚡ My Hobbies include data science blogging.
   
