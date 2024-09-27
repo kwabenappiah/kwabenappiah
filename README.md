@@ -1,6 +1,6 @@
 # Hello! :wave:
 
-I'm Isaac Appiah, a **`Data Scientist`**, based in Toronto. I enjoy automating things and finding data-driven solutions to real world business problems. My interest lies with everything data, from data architecture, data analytics to building Machine Learning Models.
+My name is Isaac Owusu-Appiah, and I am a **`Data Scientist`**. I enjoy automating processes and finding data-driven solutions to real world business problems. My interest encompass all aspects of data, including data architecture, data analytics to building Machine Learning Models.
 
 ### About me :👇
 
