@@ -2,20 +2,20 @@
 
 I'm Isaac Appiah, a **`Data Scientist`**, based in Toronto. I enjoy automating things and finding data-driven solutions to real world business problems. My interest lies with everything data, from data architecture, data analytics to building Machine Learning Models.
 
-## About me :👇
+### About me :👇
 
-- 🎯 I'm currenting freelancing with <a href="https://wwww.ioappiah.com"></a> and seeking full-time opportunities for Data Scientist /ML Engineer.
+- 🎯 I'm currenting freelancing with [Desksql training](https://www.desksql.com) and seeking full-time opportunities for Data Scientist /ML Engineer.
 - 🌍 Check out my website isaac <a href="https://www.ioappiah.com"></a>.
 - 🚀 I’m looking for a full-time opportunity in Machine Learning or Data Science.
-- 📫 How to reach me: email <a href="mailto:aappiahoakwabena@gmail.com">appiahoakwabena@gmail.com</a> and linkedIn <a href="https://www.linkedin.com/in/isaac-owusu-appiah/" rel="nofollow">isaac owusu-appiah.</a>
+- 📫 How to reach me: email <a href="mailto:aappiahoakwabena@gmail.com">appiahoakwabena@gmail.com</a> and linkedIn <a href="https://www.linkedin.com/in/isaac-owusu-appiah/" rel="nofollow">isaac owusu-appiah </a>.
 - ⚡ My Hobbies include data science blogging.
+  
+####  My main tools are : <ins>[Python](https://github.com/kwabenappiah/) </ins>, <ins>[R](https://github.com/kwabenappiah/)</ins>, <ins>[SQL](https://github.com/kwabenappiah/)</ins>, <ins>[GIT](https://git-scm.com/)</ins>
 
-####  My main tools are :<ins>[Python](https://github.com/kwabenappiah/)</ins>, <ins>[R](https://github.com/kwabenappiah/)</ins>, <ins>[SQL](https://github.com/kwabenappiah/)</ins>, <ins>[GIT](https://git-scm.com/)</ins>
-
-#### <b>Contact:</b> <ins>[website](https://ioappiah.com)</ins> <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah)</ins>
+#### <b>Contact</b> : <ins>[website](https://ioappiah.com)</ins> <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah).</ins>
 
 ----
-#### Check out my latest blog posts here 👇: and at  <ins>[website](https://ioappiah.com)</ins> 
+#### Check out my latest blog posts here 👇: and at <ins>[website](https://ioappiah.com)</ins> 
 
 ----
 ### Skills and Tools:
