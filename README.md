@@ -33,8 +33,5 @@
 -----
 #### Check out my latest blog posts here 👇: and at <ins>[website](https://ioappiah.com)</ins> 
 -----
-
-My Projects are as follows:
-
 #
 [website]: https://ioappiah.com
