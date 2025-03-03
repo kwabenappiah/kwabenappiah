@@ -30,8 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwabenappiah&show_icons=true&locale=en" alt="kwabenappiah" /></p>
 
------
-#### Check out my latest blog posts here 👇: and at <ins>[website](https://ioappiah.com)</ins> 
------
 #
-[website]: https://ioappiah.com
+[ioappiah](https://ioappiah.com) | [My blog](https://www.desksql.com)
