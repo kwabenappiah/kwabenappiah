@@ -1,39 +1,39 @@
-# Hello! :wave:
+<img src="https://i.pinimg.com/originals/b0/75/16/b07516b83eff59c6bc08f04e9f916fa9.gif" width="850" height="280">
+<h1 align="left">Data scientist, London.</h1>
+<img align="right" alt="Coding" width="160" src=https://i.pinimg.com/originals/bb/74/bf/bb74bfb0ff1a7fe41c482d2d88e10baf.gif>
 
-My name is Isaac Owusu-Appiah, and I am a **`Data Scientist`**. I enjoy automating processes and finding data-driven solutions to real world business problems. My interest encompass all aspects of data, including data architecture, data analytics to building Machine Learning Models.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazaher-ghorbani&label=Profile%20views&color=0e75b6&style=flat" alt="mazaher-ghorbani" /> </p>
 
-### About me :👇
+<h3 align="left">Bio:</h3>
+<p align="left">
 
-- 🎯 I am currenting freelancing with [Desksql training](https://www.desksql.com) and seeking full-time opportunities for Data Scientist /ML Engineer.
-- 🌍 Check out my website isaac <a href="https://www.ioappiah.com"></a>.
-- 🚀 I am looking for a full-time opportunity in Machine Learning or Data Science.
-- 📫 How to reach me: <b>email</b> -  <a href="mailto:aappiahoakwabena@gmail.com">aappiahoakwabena@gmail.com</a> and <b>linkedIn</b> -  <a href="https://www.linkedin.com/in/isaac-owusu-appiah/" rel="nofollow">isaac owusu-appiah </a>.
-- ⚡ My Hobbies include data science blogging.
-  
-####  My main tools are : <ins>[Python](https://github.com/kwabenappiah/) </ins>, <ins>[R](https://github.com/kwabenappiah/)</ins>, <ins>[SQL](https://github.com/kwabenappiah/)</ins>, <ins>[GIT](https://git-scm.com/)</ins>
+🔍 Passionate about **data-driven decision-making**, I specialize in **SQL, Python, R, Artificial Intelligence, and Machine Learning** to turn raw data into actionable insights. Always exploring **AI, predictive analytics, and optimization techniques** to solve real-world business problems.  
 
-#### <b>Contact</b> : <ins>[website](https://ioappiah.com)</ins> <ins>[linkedin](https://www.linkedin.com/in/isaac-owusu-appiah/)</ins> / <ins>[kaggle](https://www.kaggle.com/isaacappiah).</ins>
+## ⚙️ My Tech Stack  
+💻 **Languages & Tools**: Python (Pandas, NumPy, Scikit-Learn), SQL, R, SPSS, Power BI, Tableau  
+📊 **Expertise**: Data Analysis, Machine Learning, Business Intelligence, Data Visualization  
+🛠 **Interests**: AI-driven decision systems, Machine learning algorithms, Statistical Modelling  
 
-----
+## 🎯 What I Do  
+🚀 Build **end-to-end data solutions** for business strategy & growth  
+📈 Create **predictive models & machine learning algorithms**  
+🔎 Develop **SQL & Python automation** for reporting & analytics  
+🎨 Design **interactive dashboards** for storytelling with data  
+
+## 📫 Let's Connect!  
+📩 Email: **aappiahoa@gmail.com**  
+🔗 [GitHub](https://github.com/kwabenappiah) | [LinkedIn](https://www.linkedin.com/in/isaac-owusu-appiah/) | [Kaggle](https://www.kaggle.com/isaacappiah) | [Website](https://www.ioappiah.com)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="pbi" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373938/numpy.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="pbi" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwabenappiah&show_icons=true&locale=en" alt="kwabenappiah" /></p>
+
+-----
 #### Check out my latest blog posts here 👇: and at <ins>[website](https://ioappiah.com)</ins> 
+-----
 
-----
-### Skills and Tools:
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Editor-Jupyternotbook-informational?style=flat&logo=atom&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Shell-Bash-GIT-informational?style=flat&logo=gnubash&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/MachineLearning-Supervised-informational?style=flat&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/MachineLearning-Unsupervised-informational?style=flat&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DeepLearning-PyTorchLightning-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/NLP-HuggingFace-informational?style=flat&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Deployment-Docker-informational?style=flat&logo=&logoColor=white&color=2CD4A7)
-
-#
 My Projects are as follows:
 
 #
