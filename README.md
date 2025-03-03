@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/b0/75/16/b07516b83eff59c6bc08f04e9f916fa9.gif" width="850" height="280">
+<img src="https://i.pinimg.com/originals/3c/9d/73/3c9d73b52349100dbb606cf0982dc98f.gif" width="850" height="280">
 <h1 align="left">Data scientist, London.</h1>
 <img align="right" alt="Coding" width="160" src=https://i.pinimg.com/originals/bb/74/bf/bb74bfb0ff1a7fe41c482d2d88e10baf.gif>
 
